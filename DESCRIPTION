@@ -1,0 +1,11 @@
+Package: ffmpeg
+Type: Package
+Title: Some R interface functions to ffmpeg to convert videos
+Version: 0.1.0
+Author: Sebastian Kranz
+Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
+Description: Work in progress not yet documented and not yet recommended to be publicly used.
+License: GPL >= 2.0
+Encoding: UTF-8
+LazyData: true
+Depends: restorepoint, glue
